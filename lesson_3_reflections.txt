@@ -9,3 +9,6 @@ Bifurcações voce faz uma cópia com origem no original, clones somente uma có
 
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
 Caso as suas moficacoes nao funcionarem voce tem a versão original 
+
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+Teria que receber as informações e verificando o que está correto sem controle ou fazendo um backup
