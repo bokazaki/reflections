@@ -12,3 +12,6 @@ Caso as suas moficacoes nao funcionarem voce tem a versão original
 
 Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
 Teria que receber as informações e verificando o que está correto sem controle ou fazendo um backup
+
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+Quando for desenvolver algo totalmente diferente
