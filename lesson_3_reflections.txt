@@ -6,3 +6,6 @@ Para dexiar somente as versões finais no github
 
 Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
 Bifurcações voce faz uma cópia com origem no original, clones somente uma cópia, branches são cópias locais, nao do repositório inteiro. Depende de caso a caso.
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+Caso as suas moficacoes nao funcionarem voce tem a versão original 
